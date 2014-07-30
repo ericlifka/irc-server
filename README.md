@@ -1,4 +1,2 @@
-irc-server
-==========
-
-wrap irc in node to reduce awfulness
+# irc-server
+### a Sails application
